@@ -1,7 +1,6 @@
 'use strict';
 
 class CheckoutProductList {
-  productsStoreKey = 'cart-products';
 
   constructor(parentElement) {
     this.el = parentElement;
